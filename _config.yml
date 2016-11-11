@@ -1,0 +1,12 @@
+# Site settings
+title: Talk About Robots
+email: olivia.scamponigrey@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Olivia talks about robots and other musings.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: scamponi
+github_username:  greyman
+
+# Build settings
+markdown: kramdown

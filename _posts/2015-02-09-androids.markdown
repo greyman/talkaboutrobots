@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Androids"
+date:   2015-02-09 10:12:55
+categories: robots androids
+---
+There is a type of robot called an Android and it acts like a human.
+
+<img src="/images/android_robot.jpg" alt="Android">
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

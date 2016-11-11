@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "R2D2"
+date:   2015-02-05 10:12:55
+categories: robots r2d2
+---
+This is a drawing I did of R2D2
+
+<img src="/images/r2d2.jpg" alt="R2D2">
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

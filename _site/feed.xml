@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk About Robots</title>
+    <description>Olivia talks about robots and other musings.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 Nov 2016 18:28:45 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Nov 2016 18:28:45 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Androids</title>
+        <description>&lt;p&gt;There is a type of robot called an Android and it acts like a human.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/android_robot.jpg&quot; alt=&quot;Android&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 09 Feb 2015 10:12:55 +0000</pubDate>
+        <link>http://yourdomain.com/robots/androids/2015/02/09/androids.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/robots/androids/2015/02/09/androids.html</guid>
+        
+        
+        <category>robots</category>
+        
+        <category>androids</category>
+        
+      </item>
+    
+      <item>
+        <title>R2D2</title>
+        <description>&lt;p&gt;This is a drawing I did of R2D2&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/r2d2.jpg&quot; alt=&quot;R2D2&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Feb 2015 10:12:55 +0000</pubDate>
+        <link>http://yourdomain.com/robots/r2d2/2015/02/05/r2d2.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/robots/r2d2/2015/02/05/r2d2.html</guid>
+        
+        
+        <category>robots</category>
+        
+        <category>r2d2</category>
+        
+      </item>
+    
+      <item>
+        <title>Marvin</title>
+        <description>&lt;p&gt;My dad says Marvin reminds him of my mum.&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/zC3Tu7zmcPs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Tue, 13 Jan 2015 00:02:55 +0000</pubDate>
+        <link>http://yourdomain.com/robots/marvin/2015/01/13/marvin.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/robots/marvin/2015/01/13/marvin.html</guid>
+        
+        
+        <category>robots</category>
+        
+        <category>marvin</category>
+        
+      </item>
+    
+      <item>
+        <title>Toast of London</title>
+        <description>&lt;p&gt;The person who sang in this video is in a program my dad watches at night.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/Rdqu-HObUbo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Wed, 31 Dec 2014 00:02:55 +0000</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2014/12/31/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/12/31/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
